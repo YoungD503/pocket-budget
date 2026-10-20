@@ -4,15 +4,18 @@
 No sign-up, no account, no ads. Everything stays on the person's own phone.
 
 ## What people get
-- **Daily allowance**: "You can spend $X today", recalculated every time they log something
-- **Add an expense in 3 taps**: amount, category, save
+- **English and Español**, picked from the phone's language, switchable with one tap
+- **Built for how they earn**: Employee, Entrepreneur / freelancer, Side hustle / gig work. Each adds its own categories and income types
+- **50/30/20 budget by default**: Needs 50%, Wants 30%, Savings & investing 20%. Switch to 70/20/10, 60/20/20, 50/20/30 or set your own percentages
+- **Daily spend ring**: "You can spend $X today", recalculated every time they log something
+- **Add in seconds** with a big keypad, category icons and a note
 - **📷 Receipt scanning on the phone**: reads total, date and store; the photo is never uploaded
-- **Monthly budget by category**, with on-track / ahead-of-pace warnings
-- **Income types you choose** (salary, side job, tips, benefits…), with expected vs. received each month
-- **Paydays that add themselves**, including every 2 weeks
-- **Bills & subscriptions**: what's coming, and logged automatically on the due date
-- **History** by month, **CSV export** for Excel/Sheets, **backup & restore**
-- **Morning, midday and night reminders** added to the phone's calendar with one tap
+- **Business and side-hustle money kept separate**: earned, costs, profit and a tax set-aside estimate
+- **Monthly budget** with a spending donut, pace warnings and expected income vs. budget
+- **Bills and paydays** (weekly, every 2 weeks, monthly, quarterly, yearly) that record themselves
+- **Personalize**: 6 colors, light/dark, your own category names, icons and colors
+- **History** with filters, edit and delete; **CSV export** for Excel/Sheets; **backup & restore**
+- **Morning, midday and night reminders** added to the phone's calendar
 - **Installable** to the home screen; **works offline**
 
 The first open shows example data so people see how it works; **Start my budget** takes 30 seconds.
