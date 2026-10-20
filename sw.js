@@ -1,6 +1,6 @@
 // Pocket Budget offline worker: the app works without internet after the first visit.
 // Bump VERSION when you publish changes so phones pick up the new files.
-const VERSION = 'pb-v1';
+const VERSION = 'pb-v3';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icon.svg', './icon-180.png', './icon-192.png', './icon-512.png'];
 // Fonts and the on-device receipt reader are cached the first time they load.
 const RUNTIME_HOSTS = ['fonts.googleapis.com', 'fonts.gstatic.com', 'cdn.jsdelivr.net', 'tessdata.projectnaptha.com'];
