@@ -1,7 +1,7 @@
 {
   "name": "Pocket Budget",
   "short_name": "Budget",
-  "description": "Free budget and expense tracker. No sign-up. Your data stays on your phone.",
+  "description": "Free budget app in English and Spanish. No sign-up. Your data stays on your phone.",
   "id": "./",
   "start_url": "./",
   "scope": "./",
